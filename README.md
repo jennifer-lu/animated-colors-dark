@@ -4,7 +4,7 @@ A dark theme with an animated color-changing background for Firefox add-ons. Cre
 
 ## Demo
 
-
+![theme-demo](https://github.com/jennifer-lu/Animated-Colors-Dark/blob/master/demo.gif)
 
 
 ## Installation

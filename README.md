@@ -1,6 +1,7 @@
 # Animated Colors Dark
 
-A dark theme with an animated color-changing background for Firefox add-ons. Created for Firefox add-ons.
+A dark theme with an animated color-changing background. Created for Firefox add-ons.
+
 
 ## Demo
 
